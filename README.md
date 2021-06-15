@@ -6,7 +6,7 @@ CaT-z: Classification and Tracking in depth (z) - Software for the acquisition, 
 CaT-z is composed of three modules. 
 To run the already-compiled version, download the .zip file using the "Release" tab (https://github.com/CaT-zTools/CaT-z_Software/releases/tag/v1.0) and run the following batch/msi files:
 
-RGB-D data Acquisition GUI (with the Microsoft Kinect v2 camera or the Intel Real Sense camera):
+RGB-D data Acquisition GUI (with the Intel Real Sense camera or the Microsoft Kinect v2 camera):
 > CaT_z_dataAcquisitionGUI_RealSense.msi 
 > CaT_z_dataAcquisitionGUI_Kinect.bat 
 
